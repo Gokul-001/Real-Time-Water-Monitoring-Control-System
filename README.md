@@ -22,7 +22,7 @@ directly, due to oxygen meant for aquatic life forms being consumed, the ecosyst
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f635_200d_1f4ab/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f635_200d_1f4ab/512.gif" alt="😵" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f635_200d_1f4ab/512.gif" alt="🙄" width="32" height="32">
 </picture> Problem Statement :</h2></div>
 <ul>
 <li>Because of Eutropication, The ecosystem which is an extension of our environment remains unbalanced, and will affect the life forms that depend on it directly or indirectly.</li>
