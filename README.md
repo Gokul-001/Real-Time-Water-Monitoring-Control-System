@@ -103,8 +103,6 @@ breeding of aquatic life forms</li>
 
 
 
-![Github Snake Dark](https://github.com/IBM-EPBL/IBM-Project-12947-1659501329/blob/output/github-contribution-grid-snake.svg)
-
 
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">
 
