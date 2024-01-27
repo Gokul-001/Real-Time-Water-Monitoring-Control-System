@@ -94,19 +94,9 @@ breeding of aquatic life forms</li>
 - [x] Milestone & Activity List <br>
 - [x] Sprint Planning <br>
 
-<br>
- <h2>
-  <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.gif" alt="🙏" width="32" height="32">
-</picture> Contribution :</h2>
+<be>
+ 
 
-
-
-
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">
-
-
+<h1></h1>
 <div align="center">
- <h5> 
-IBM Project: 12947-1659501329 | St.josephs college of Engineering Chennai </h5>  
+ <h5> IBM Project: 12947-1659501329 | St.josephs college of Engineering Chennai </h5>  
